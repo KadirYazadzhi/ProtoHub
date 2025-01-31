@@ -1,0 +1,14 @@
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/bin/Debug/net8.0/ProtoHub
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/bin/Debug/net8.0/ProtoHub.deps.json
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/bin/Debug/net8.0/ProtoHub.runtimeconfig.json
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/bin/Debug/net8.0/ProtoHub.dll
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/bin/Debug/net8.0/ProtoHub.pdb
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/obj/Debug/net8.0/ProtoHub.GeneratedMSBuildEditorConfig.editorconfig
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/obj/Debug/net8.0/ProtoHub.AssemblyInfoInputs.cache
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/obj/Debug/net8.0/ProtoHub.AssemblyInfo.cs
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/obj/Debug/net8.0/ProtoHub.csproj.CoreCompileInputs.cache
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/obj/Debug/net8.0/ProtoHub.dll
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/obj/Debug/net8.0/refint/ProtoHub.dll
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/obj/Debug/net8.0/ProtoHub.pdb
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/obj/Debug/net8.0/ProtoHub.genruntimeconfig.cache
+/home/anonymous/RiderProjects/ProtoHub/ProtoHub/obj/Debug/net8.0/ref/ProtoHub.dll
